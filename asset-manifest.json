@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/demolive/static/css/main.9ccdc283.css",
+    "main.js": "/demolive/static/js/main.85fb3133.js",
+    "static/media/home.jpg": "/demolive/static/media/home.983d04394e8759f5f06a.jpg",
+    "static/media/About.avif": "/demolive/static/media/About.7c6baddf0b5eb13e3730.avif",
+    "index.html": "/demolive/index.html",
+    "main.9ccdc283.css.map": "/demolive/static/css/main.9ccdc283.css.map",
+    "main.85fb3133.js.map": "/demolive/static/js/main.85fb3133.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ccdc283.css",
+    "static/js/main.85fb3133.js"
+  ]
+}
